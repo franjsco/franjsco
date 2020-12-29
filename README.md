@@ -1,5 +1,5 @@
 <h2> Hi, I'm Francesco Esposito (@franjsco)! <img src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="190">
+<img align='right' src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="180">
 <p><strong>Developer & Tech enthusiast 🧑‍💻</strong></p>
 <p>⌨️ Programming | 📜 Opensource | 🐧 Linux | 🕵️ Privacy | 🦔 Freedom</p>
 
