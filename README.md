@@ -1,4 +1,4 @@
-<h2> Hi, I'm Francesco Esposito (@franjsco)! <img src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Francesco! <img src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="50"></h2>
 <p><strong>Developer & Tech enthusiast 🧑‍💻</strong></p>
 <p>⌨️ Programming | 📜 Opensource | 🐧 Linux | 🕵️ Privacy</p>
 
