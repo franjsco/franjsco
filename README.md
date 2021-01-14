@@ -10,21 +10,6 @@
 
 <br/>
 
----
-
-```javascript
-const franjsco = {
-  languages: ['JavaScript', 'Python', 'HTML', 'CSS', 'SQL', 'PL/SQL', 'Bash'],
-  framework: ['Express', 'React', 'Next.js', 'Django', 'Bootstrap'],
-  tools: ['Node.js', 'Git', 'Docker', 'Jupyter', 'Pandas', 'Hugo'],
-  os: {
-        linux: ['openSUSE', 'Archlinux', 'Fedora', 'Debian', 'Ubuntu'],
-        windows: [7,10]
-  },
-  databases: ['Oracle', 'MySQL/MariaDB', 'Postgres', 'MongoDB']
-}
-```
-
 [twitter]: https://twitter.com/franjsco
 [telegram]: https://t.me/franjsco
 [mastodon]: https://mastodon.uno/@franjsco
