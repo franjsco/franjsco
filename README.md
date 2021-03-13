@@ -1,12 +1,11 @@
-<h2> Hi, I'm Francesco! <img src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="50"></h2>
-<p><strong>Developer, Geek, Linux user 🧑‍💻</strong></p>
-<p>⌨️ Programming | 📜 Opensource | 🐧 Linux</p>
+<h3> Hi 👋, I'm Francesco</h3>
+<p>⌨️ Developer | 🐧 Linux User  | 📜 Open source Enthusiast  </p>
 
-[<img align="left" alt="franjsco | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="franjsco | Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg"/>][telegram]
-[<img align="left" alt="franjsco | Mastodon" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mastodon.svg"/>][mastodon]
-[<img align="left" alt="franjsco | GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>][github]
-[<img align="left" alt="franjsco | GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg"/>][gitlab]
+[<img align="left" alt="franjsco | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="franjsco | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg"/>][telegram]
+[<img align="left" alt="franjsco | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mastodon.svg"/>][mastodon]
+[<img align="left" alt="franjsco | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>][github]
+[<img align="left" alt="franjsco | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg"/>][gitlab]
 
 <br/>
 
