@@ -1,5 +1,3 @@
-<h3> Hi 👋, I'm Francesco</h3>
-
 [<img align="left" alt="franjsco | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="franjsco | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg"/>][telegram]
 [<img align="left" alt="franjsco | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mastodon.svg"/>][mastodon]
