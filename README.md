@@ -11,7 +11,7 @@
 ```javascript
 const franjsco = {
   code: ['JavaScript', 'TypeScript', 'PHP', 'Python', 'SQL', 'HTML', 'CSS'],
-  frameworks: ['express', 'laravel', 'React', 'Angular', 'Bootstrap'],
+  frameworks: ['express', 'Laravel', 'React', 'Angular', 'Bootstrap'],
   tools: ['Git', 'Docker', 'Node.js', 'Bash'],
   databases: ['MySQL', 'Oracle Database', 'Postgres', 'MongoDB'],
   OS: ['openSUSE', 'Fedora', 'ArchLinux', 'Ubuntu', 'Debian', 'Windows'],
