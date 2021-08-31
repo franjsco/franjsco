@@ -13,7 +13,7 @@
 const franjsco = {
   code: ['JavaScript', 'TypeScript', 'PHP', 'Python', 'SQL', 'HTML', 'CSS'],
   frameworks: ['express', 'Laravel', 'React', 'Angular', 'Bootstrap'],
-  tools: ['Git', 'Docker', 'Node.js', 'Bash'],
+  tools: ['Git', 'Docker', 'Node.js', 'Bash', 'Postman'],
   databases: ['MySQL', 'Oracle Database', 'Postgres', 'MongoDB'],
   OS: ['openSUSE', 'Fedora', 'ArchLinux', 'Ubuntu', 'Debian', 'Windows'],
   other: ['Rest API', 'MVC', 'DevOps', 'Cloud', 'OpenAPI']
