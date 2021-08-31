@@ -16,6 +16,6 @@ const franjsco = {
   tools: ['Git', 'Docker', 'Node.js', 'Bash'],
   databases: ['MySQL', 'Oracle Database', 'Postgres', 'MongoDB'],
   OS: ['openSUSE', 'Fedora', 'ArchLinux', 'Ubuntu', 'Debian', 'Windows'],
-  other: ['Rest API', 'MVC', 'DevOps', 'Cloud', 'Bitcoin']
+  other: ['Rest API', 'MVC', 'DevOps', 'Cloud', 'OpenAPI']
 };
 ```
