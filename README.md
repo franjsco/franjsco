@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Hi, I'm Francesco Esposito (franjsco)!</h2>
+<img align='right' src="https://i.giphy.com/media/13FrpeVH09Zrb2/giphy.webp" width="230">
+<p><em>⚡ Full-stack developer |  ❤️ Linux lover | 🔥 Open-source enthusiast</em></p>
 
-<!--
-**franjsco/franjsco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: Francesco Esposito](https://img.shields.io/twitter/follow/franjsco?style=social)](https://twitter.com/franjsco)
+[![GitHub franjsco](https://img.shields.io/github/followers/franjsco?label=follow&style=social)](https://github.com/franjsco)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media2.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const franjsco = {
+  code: ['JavaScript', 'TypeScript', 'PHP', 'Python', 'SQL', 'HTML', 'CSS'],
+  frameworks: ['express', 'laravel', 'React', 'Angular', 'Bootstrap'],
+  tools: ['Git', 'Docker', 'Node.js', 'Bash'],
+  databases: ['MySQL', 'Oracle Database', 'Postgres', 'MongoDB'],
+  OS: ['openSUSE', 'Fedora', 'ArchLinux', 'Ubuntu', 'Debian', 'Windows'],
+  other: ['Rest API', 'MVC', 'DevOps', 'Cloud', 'Bitcoin']
+};
+```
