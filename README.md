@@ -1,4 +1,3 @@
-<h2> Hi, I'm Francesco Esposito (franjsco)!</h2>
 <img align='right' src="https://i.giphy.com/media/13FrpeVH09Zrb2/giphy.webp" width="230">
 <p><em>⚡ Full-stack developer |  ❤️ Linux lover | 🔥 Open-source enthusiast</em></p>
 
