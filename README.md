@@ -1,5 +1,5 @@
 <h1 align="left" id="franjsco-title">:wave: Hello there! I'm Francesco Esposito</h1>
-<h3 align="left">Software Developer, GNU/Linux lover and Open-source enthusiast </h3>
+<h3 align="left">Software Developer, Open-source and GNU/Linux enthusiast </h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franjsco)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/franjsco)
