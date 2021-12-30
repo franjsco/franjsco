@@ -15,7 +15,7 @@ I'm Francesco Esposito (aka `franjsco`). I'm curious, passionate, experimenter o
 [![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
 
 
-**✉️** hello[at]francescoesposito.org
+**✉️ email:** hello[at]francescoesposito.org
 
 
 <br>
