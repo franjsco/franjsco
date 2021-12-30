@@ -2,7 +2,7 @@
 <h3 align="left">Software Developer, Open-source and GNU/Linux enthusiast </h3>
 
 I'm Francesco Esposito (aka `franjsco`). I'm curious, passionate, experimenter of:
-- programming ⌨️ | GNU/Linux system 🐧 | open-source software 🧾 | security and privacy 🕵️. <br> <br>
+- programming ⌨️ | GNU/Linux 🐧 | open-source software 🧾 | security and privacy 🕵️. <br> <br>
 
 
 > «If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.» – George Bernard Shaw
