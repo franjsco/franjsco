@@ -10,7 +10,3 @@
 
 **✉️ email:** info[at]francescoesposito.org
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franjsco&layout=compact&exclude_repo=analisi-covid19-campania&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=franjsco&count_private=true&include_all_commits=true&disable_animations=true&hide_rank=true&show_icons=true&custom_title=Stats&layout=compact&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
