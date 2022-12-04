@@ -1,4 +1,3 @@
-<h1 align="left" id="franjsco-title">:wave: Hello there!</h1>
 <h3 align="left">Software Developer, Open-source and GNU/Linux enthusiast </h3>
 
 ```
