@@ -1,10 +1,10 @@
 <h3 align="left">Software Developer, Open-source and GNU/Linux enthusiast </h3>
 
 ```
-~$ cowsay "I use GNU/Linux btw"
+~$ cowsay "I write code"
 
  --------------------- 
-< I use GNU/Linux btw >
+< I write code >
  --------------------- 
         \   ^__^
          \  (oo)\_______
