@@ -6,10 +6,10 @@
 
 
 ```
-~$ cowsay "I write code"
+~$ cowsay "It's not a bug, it's a feature"
 
  --------------------- 
-< I write code >
+< It's not a bug, it's a feature >
  --------------------- 
         \   ^__^
          \  (oo)\_______
