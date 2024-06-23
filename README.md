@@ -3,22 +3,18 @@
 </div>
 
 
-[![X](https://img.shields.io/badge/follow%20me%20on%20X-black?style=for-the-badge&logo=x)](https://x.com/)
+[![X](https://img.shields.io/badge/follow%20me%20on%20X-black?style=for-the-badge&logo=x)](https://x.com/franjsco)
 [![Telegram](https://img.shields.io/badge/contact%20me%20on%20telegram-black?style=for-the-badge&logo=telegram)](https://t.me/franjsco)
-[![GitHub](https://img.shields.io/badge/follow%20me%20on%20github-black?style=for-the-badge&logo=github)](https://x.com/)
+[![GitHub](https://img.shields.io/badge/follow%20me%20on%20github-black?style=for-the-badge&logo=github)](https://github.com/franjsco)
+
+
+## Hello👋 Francesco here!
+
+A Software Engineer who loves memes.
 
 
 
-```
-~$ cowsay "It's not a bug, it's a feature"
+### What I do every day
 
- --------------------- 
-< It's not a bug, it's a feature >
- --------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-exit 0 
-```
+![meme](https://c.tenor.com/9X-I0mcc_OgAAAAC/tenor.gif)
+
