@@ -1,8 +1,12 @@
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franjsco)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/franjsco)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/franjsco)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/franjsco)
-[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://franjsco.github.io/feed.xml)
+<div align="center">
+  <img width="100%" src="./head.png" alt="cover" />
+</div>
+
+
+[![X](https://img.shields.io/badge/follow%20me%20on%20X-black?style=for-the-badge&logo=x)](https://x.com/)
+[![Telegram](https://img.shields.io/badge/contact%20me%20on%20telegram-black?style=for-the-badge&logo=telegram)](https://t.me/franjsco)
+[![GitHub](https://img.shields.io/badge/follow%20me%20on%20github-black?style=for-the-badge&logo=github)](https://x.com/)
+
 
 
 ```
